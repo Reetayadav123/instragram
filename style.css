@@ -1,0 +1,67 @@
+.container{
+    height: 800px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 2.5rem;
+    padding: 10px;
+    margin-left: 700px;
+    margin-top: 100px;    
+}
+.main{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10rem;
+    font-size: 30px;
+    gap: 30px;
+}
+.front{
+    display: flex;
+    gap: 10px;
+}
+.story{
+    display: flex;
+    margin-top: 3rem;
+    margin-right: 10rem;
+    gap: 33px;
+}
+.story img{
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    border: 2px solid black;
+}
+.fox{
+    height: 300px;
+    width: 400px;
+    margin-top: 10px;
+}
+.account{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid black;      
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+}
+.fa-solid{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.gname{
+    display: flex;
+    gap:10px
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
+.fa-sharp {
+    margin-top: 15px;
+    font-size: 20px;
+}
+.comment{
+    font-size: 20px;
+    padding: 0;
+}
